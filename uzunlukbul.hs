@@ -1,0 +1,1 @@
+uzunlukbul dizi= sum[1|x<-dizi]

@@ -1,0 +1,1 @@
+sayiTopla x y = x+y

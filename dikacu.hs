@@ -1,0 +1,1 @@
+dikacu liste =[(a,b,c)|c<-liste, b<-take c liste ,a<-take b liste, c^2 == a^2 + b^2]                           
